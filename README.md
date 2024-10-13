@@ -12,6 +12,3 @@
 ChaitanyaSaik/ChaitanyaSaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- #POWER BI
- THE ABOVE PROJECT IS ABOUT THE DATA ANALYSIS USING POWER BI 
- THIS IS MY FIRST POWER BI DATA ANALYSIS MODEL 
