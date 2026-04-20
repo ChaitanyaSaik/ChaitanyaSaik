@@ -1,100 +1,218 @@
+<div align="center">
 
-# 👋 Hi, I'm Chaitanya Sai Kurapati
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chaitanya%20Sai%20Kurapati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=53&descSize=16" />
 
-🚀 **AI/ML Engineer | Full-Stack Developer | Problem Solver**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=I+don't+just+experiment+with+AI+%E2%80%94+I+deploy+it.;Building+LLMs+%C3%97+RAG+%C3%97+Scalable+Backends;1M%2B+records%2Fday+%7C+94.2%25+Medical+Imaging+Accuracy;Hallucination+rate+34%25+%E2%86%92+8%25+in+Production)](https://git.io/typing-svg)
 
-I am a Computer Science undergraduate at Amrita Vishwa Vidyapeetham with a strong focus on building scalable AI/ML systems and real-world software solutions. I specialize in NLP, LLMs, distributed systems, and backend engineering, with a track record of delivering high-performance applications that go beyond experimentation into production.
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurapati-chaitanya-sai/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaitanyaSaik)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyasaikurapati@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-## 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-Amrita Vishwa Vidyapeetham (2022 – 2026)  
-CGPA: 8.47/10  
+<img src="https://komarev.com/ghpvc/?username=ChaitanyaSaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-Relevant Coursework:  
-Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, Machine Learning, Distributed Systems  
-
----
-
-## 💼 Experience
-**AI/ML Intern – Alpxin Technologies (Apr 2025 – Jul 2025)**  
-- Built an AI-powered Resume Intelligence System achieving **80% accuracy** in job matching  
-- Improved resume parsing & semantic similarity using Sentence Transformers & FAISS  
-- Designed skill-gap detection pipeline using LLMs  
-- Developed scalable system using **FastAPI + Streamlit**  
+</div>
 
 ---
 
-## 🔥 Projects
+## 🧠 About Me
 
-### 🧠 AI Resume Intelligence System
-- NLP + LLM-based system for resume-job matching  
-- Semantic search with FAISS and transformers  
+```python
+class ChaitanyaSaiKurapati:
+    def __init__(self):
+        self.role         = "AI/ML Engineer | Full-Stack Developer"
+        self.education    = "B.Tech CSE @ Amrita Vishwa Vidyapeetham (2022–2026)"
+        self.cgpa         = 8.47
+        self.focus        = ["LLMs", "RAG Architectures", "Distributed Systems", "Production ML"]
+        self.publications = ["ICCATEET 2026", "IEEE INDISCON 2025"]
+        self.leetcode     = "250+ problems solved | Top 15%"
+        self.motto        = "Ship to production, not just notebooks."
 
-### 🔗 Scalable URL Shortener
-- Flask + Redis + MySQL  
-- Handles **50K concurrent requests**  
+    def current_work(self):
+        return "AI-powered Resume Intelligence @ Alpxin Technologies"
 
-### 🛡 Malware Detection using LLMs
-- Reduced false positives by **20%** using NLP techniques  
+    def ask_me_about(self):
+        return ["LangChain", "FAISS", "FastAPI", "PyTorch", "Apache Spark"]
+```
 
-### ⚡ AutoML Platform
-- Automated model selection & tuning  
-- Reduced experimentation time to **<3 minutes**  
+---
 
-### 📊 Distributed Data Pipeline
-- Apache Spark pipeline processing **1M+ records/day**  
-- Achieved **4× throughput improvement**  
+## 📊 Impact at a Glance
 
-### 🏥 Chest X-Ray Disease Detection
-- Vision Transformer + DenseNet  
-- **94.2% accuracy | 0.96 AUC**  
+<div align="center">
 
-### 📄 Smart Document Assistant (RAG)
-- Reduced hallucination from **34% → 8%**  
-- Built using LangChain, FAISS, OpenAI  
+| 🎯 Metric | 🚀 Result |
+|:---|:---|
+| Resume–Job Matching Accuracy | **80%** with Sentence Transformers + FAISS |
+| Medical Imaging Classifier | **94.2% accuracy / 0.96 AUC** (Published) |
+| RAG Hallucination Rate | Reduced from **34% → 8%** |
+| Distributed Pipeline Throughput | **4× improvement** on 1M+ records/day |
+| URL Shortener Load | **50K concurrent requests** handled |
+| Malware False Positives | **−20%** via NLP-based approach |
+| AutoML Experiment Time | **< 3 minutes** end-to-end |
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack | Highlight |
+|:---|:---|:---|:---|
+| 🧠 **AI Resume Intelligence** | NLP-based resume–job matching system | FastAPI · FAISS · Sentence Transformers · Streamlit | 80% match accuracy |
+| 📄 **Smart Document Assistant (RAG)** | Production RAG pipeline with minimal hallucination | LangChain · FAISS · OpenAI · Python | 34% → 8% hallucination |
+| 🔗 **Scalable URL Shortener** | High-throughput distributed shortener | Flask · Redis · MySQL | 50K concurrent requests |
+| ⚡ **AutoML Platform** | Automated model selection & hyperparameter tuning | Scikit-learn · Python | <3 min experiments |
+| 📊 **Distributed Data Pipeline** | Large-scale Spark ETL pipeline | PySpark · Apache Spark · AWS S3 | 1M+ records/day, 4× throughput |
+| 🏥 **Chest X-Ray Disease Detection** | Multi-label classification using Vision Transformers | PyTorch · Vision Transformer · DenseNet | 94.2% accuracy · 0.96 AUC |
+| 🛡 **Malware Detection via LLMs** | LLM-enhanced static analysis for malware | NLP · Transformers · Python | −20% false positives |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML / LLM
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0047AB?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaSaik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSaik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChaitanyaSaik&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 📚 Publications
-- Multi-Label Chest X-Ray Diagnosis (ICCATEET 2026)  
-- TCP vs UDP Multi-Robot Communication (IEEE INDISCON 2025)  
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🛠 Skills
+### 📄 Multi-Label Chest X-Ray Diagnosis
+**ICCATEET 2026**
+> Proposed a hybrid Vision Transformer + DenseNet architecture for multi-label disease classification on chest X-rays. Achieved **94.2% accuracy** and **0.96 AUC** across 14 pathological categories.
 
-**Languages:** Python, Java, SQL  
-**ML/AI:** PyTorch, Scikit-learn, Transformers, XGBoost  
-**LLM/NLP:** LangChain, FAISS, OpenAI API, Sentence Transformers  
-**Backend:** FastAPI, Flask, Streamlit, Docker  
-**Databases:** MySQL, PostgreSQL, Redis  
-**Cloud:** AWS (EC2, S3)  
-**Big Data:** Apache Spark, PySpark  
+</td>
+<td width="50%">
+
+### 📡 TCP vs UDP in Multi-Robot Systems
+**IEEE INDISCON 2025**
+> Comparative analysis of TCP and UDP communication protocols in multi-robot coordination environments, with latency benchmarking and reliability tradeoff analysis under real-world noise conditions.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Hackathon Finalist (Top 8/120 teams)  
-- 💻 Solved 250+ LeetCode problems (Top 15%)  
-- 👨‍🏫 Mentored 15+ students in DSA  
-- ✍️ Published technical articles on AI & ML  
+
+<div align="center">
+
+🥇 &nbsp;**Hackathon Finalist** — Top 8 out of 120 teams &nbsp;|&nbsp;
+💻 &nbsp;**250+ LeetCode** problems — Top 15% globally
+
+👨‍🏫 &nbsp;**Mentored 15+ students** in Data Structures & Algorithms &nbsp;|&nbsp;
+✍️ &nbsp;**Published technical articles** on AI & ML
+
+📖 &nbsp;**2× Peer-Reviewed Publications** (IEEE + ICCATEET) &nbsp;|&nbsp;
+⚡ &nbsp;**AI/ML Intern** @ Alpxin Technologies
+
+</div>
 
 ---
 
-## 🎯 Current Focus
-- Scalable ML systems  
-- LLM + RAG architectures  
-- Production-grade AI deployment  
+## 💼 Experience
+
+### 🏢 AI/ML Intern — Alpxin Technologies *(Apr 2025 – Jul 2025)*
+
+- 🎯 Built an **AI-powered Resume Intelligence System** achieving **80% accuracy** in job-to-resume matching
+- 🔍 Improved resume parsing and semantic similarity using **Sentence Transformers + FAISS**
+- 🧩 Designed a **skill-gap detection pipeline** leveraging LLMs for targeted candidate feedback
+- 🚀 Deployed end-to-end scalable system using **FastAPI + Streamlit** with production-ready architecture
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: chaitanyasaikurapati@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kurapati-chaitanya-sai/
-- 🧑‍💻 GitHub: https://github.com/ChaitanyaSaik
+## 🎯 Currently Focused On
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  🔭 Scalable ML systems for production workloads         │
+│  🧪 Advanced LLM + RAG architectures                     │
+│  ☁️  Cloud-native AI deployment (AWS + Docker)           │
+│  📊 Distributed data engineering with Apache Spark       │
+│  🎓 Graduating May 2026 — Open to MLE / SDE Roles        │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-⭐ *If you find my work interesting, feel free to explore my repositories and collaborate!*  
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on **AI/ML projects**, discussing **research ideas**, or exploring **full-time opportunities**.
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurapati-chaitanya-sai/)
+[![Email](https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyasaikurapati@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_my_repos-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChaitanyaSaik)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+*"The best model is the one that's running in production."*
+
+⭐ **If you find my work valuable, consider starring a repo — it means a lot!**
+
+</div>
