@@ -11,8 +11,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyasaikurapati@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
-<img src="https://komarev.com/ghpvc/?username=ChaitanyaSaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
 </div>
 
 ---
