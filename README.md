@@ -32,43 +32,6 @@ class ChaitanyaSaiKurapati:
 
     def ask_me_about(self):
         return ["LangChain", "FAISS", "FastAPI", "PyTorch", "Apache Spark"]
-```
-
----
-
-## 📊 Impact at a Glance
-
-<div align="center">
-
-| 🎯 Metric | 🚀 Result |
-|:---|:---|
-| Resume–Job Matching Accuracy | **80%** with Sentence Transformers + FAISS |
-| Medical Imaging Classifier | **94.2% accuracy / 0.96 AUC** (Published) |
-| RAG Hallucination Rate | Reduced from **34% → 8%** |
-| Distributed Pipeline Throughput | **4× improvement** on 1M+ records/day |
-| URL Shortener Load | **50K concurrent requests** handled |
-| Malware False Positives | **−20%** via NLP-based approach |
-| AutoML Experiment Time | **< 3 minutes** end-to-end |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Highlight |
-|:---|:---|:---|:---|
-| 🧠 **AI Resume Intelligence** | NLP-based resume–job matching system | FastAPI · FAISS · Sentence Transformers · Streamlit | 80% match accuracy |
-| 📄 **Smart Document Assistant (RAG)** | Production RAG pipeline with minimal hallucination | LangChain · FAISS · OpenAI · Python | 34% → 8% hallucination |
-| 🔗 **Scalable URL Shortener** | High-throughput distributed shortener | Flask · Redis · MySQL | 50K concurrent requests |
-| ⚡ **AutoML Platform** | Automated model selection & hyperparameter tuning | Scikit-learn · Python | <3 min experiments |
-| 📊 **Distributed Data Pipeline** | Large-scale Spark ETL pipeline | PySpark · Apache Spark · AWS S3 | 1M+ records/day, 4× throughput |
-| 🏥 **Chest X-Ray Disease Detection** | Multi-label classification using Vision Transformers | PyTorch · Vision Transformer · DenseNet | 94.2% accuracy · 0.96 AUC |
-| 🛡 **Malware Detection via LLMs** | LLM-enhanced static analysis for malware | NLP · Transformers · Python | −20% false positives |
-
-</div>
 
 ---
 
