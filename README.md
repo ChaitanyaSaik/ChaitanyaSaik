@@ -32,7 +32,7 @@ class ChaitanyaSaiKurapati:
 
     def ask_me_about(self):
         return ["LangChain", "FAISS", "FastAPI", "PyTorch", "Apache Spark"]
-
+```
 ---
 ---
 
