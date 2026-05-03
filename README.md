@@ -34,7 +34,6 @@ class ChaitanyaSaiKurapati:
         return ["LangChain", "FAISS", "FastAPI", "PyTorch", "Apache Spark"]
 ```
 ---
----
 
 ## 🛠️ Tech Stack
 
