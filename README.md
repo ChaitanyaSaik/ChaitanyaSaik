@@ -108,17 +108,6 @@ class ChaitanyaSaiKurapati:
 
 ---
 
-## 💼 Experience
-
-### 🏢 AI/ML Intern — Alpxin Technologies *(Apr 2025 – Jul 2025)*
-
-- 🎯 Built an **AI-powered Resume Intelligence System** achieving **80% accuracy** in job-to-resume matching
-- 🔍 Improved resume parsing and semantic similarity using **Sentence Transformers + FAISS**
-- 🧩 Designed a **skill-gap detection pipeline** leveraging LLMs for targeted candidate feedback
-- 🚀 Deployed end-to-end scalable system using **FastAPI + Streamlit** with production-ready architecture
-
----
-
 ## 🎯 Currently Focused On
 
 ```
