@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chaitanya%20Sai%20Kurapati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=53&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=I+don't+just+experiment+with+AI+%E2%80%94+I+deploy+it.;Building+LLMs+%C3%97+RAG+%C3%97+Scalable+Backends;1M%2B+records%2Fday+%7C+94.2%25+Medical+Imaging+Accuracy;Hallucination+rate+34%25+%E2%86%92+8%25+in+Production)](https://git.io/typing-svg)
 
 <br/>
 
